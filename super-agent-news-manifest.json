@@ -1,0 +1,86 @@
+{
+  "citations": [
+    {
+      "source": "SMBtech",
+      "title": "Cloudflare moves to block mixed-use AI crawlers",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWEY1dWUtejlBcjQyNm55Q291bm1zclJjWk8zQTdULXp0Mzc3Ql91MzVqVzB4ZG9uVFUwbXZ2SHU1eGR2MFlsbG5hSGQyRVFVeTlfM3MxSzBSUXU1TnpkOERKNjlqM2VmbXhwQWdXWTlOZXRuZGFYNXpGTTRrN1RvbUJtc001X2hCTnV5ZTFXZG1iQTdGazFhdjhn"
+    },
+    {
+      "source": "Blockchain Council",
+      "title": "MCP vs RAG vs Skills: AI Agent Architecture",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGbHYxUE9Zbmd5WVNGTUJabVZNMnJxVzhYeTZvcVRxNWNNcm5yQWtjSzQ0S0YzZjRtLW5qNUl5Mmc4LWdBeW1EMkxvQzRqekFlYVY0OFJpVHhwaHZCZTlhN0VBa0lIQ3BibXJSdHlkeFc4R2h3"
+    },
+    {
+      "source": "Search Engine Journal",
+      "title": "Google Gemini can now control your computer",
+      "url": "https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    },
+    {
+      "source": "Google AI",
+      "title": "Computer Use in Gemini models",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "Tech Times",
+      "title": "AI Agent Safety benchmark findings",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYkZYUlRvMGswUVU0WEgxX2ZRNFRvSkgwanZqMnhrd2g1ajhLUjNCZjRpeG9QandNNl9YZWl4SzVZamg5Z3BGMG1OVnZnQXVyY00xNEI0Ym04c2pLc2RfMzZtdExDOWlxSXJHZDh6V1VndFZjTUtXRXR2Q0RZWnA5VGIxTjY0VnVJdTlTdzBHOUhFMkNCbTkxRzM2OThEeGtYc19La3oyRlZuS2ItaTNpZ3l3ZklsOE9NME5zRGhuei0tcGwwbmZJ"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed derived from title='AI agent to build websites', kind='use_case', audience='founders/operators/creators', generated_at='2026-07-06T15:54:00Z' \u2192 selected architecture 'workflow-command-center'. AIDA Check: Hero captures Attention with 2\u20133 line H1; Interest via workflow proof and market context; Desire via computer-use cache advantage; Action via repeated CTAs. Font Selection: Cabinet Grotesk (allowed stack) applied globally. Hero Math Verification: max-width 1120px with clamp() sizing to ensure 2\u20133 lines on desktop. Bento Density Verification: gapless grids use grid-auto-flow:dense. GSAP Motion Selection: image-scale-fade-scroll + hover-physics guarded for no-GSAP. Label Sweep & Button Check: all primary CTAs black pill linking to Super login; secondary white pill present.",
+  "generated_at": "2026-07-06T15:54:59.891716+00:00",
+  "headline": "AI agent to build websites \u2014 from research to publish, with real computer use",
+  "site_brief": {
+    "audience": "founders, operators, and creators who want an AI agent to build and publish websites",
+    "canonical_url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'AI agent to build websites', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful. Add a long-form operator playbook with how-to steps, setup checklist, realistic limits, confirmation moments, and examples that a reader can act on immediately.",
+    "kind": "use_case",
+    "queries": [
+      "AI agent build websites",
+      "AI website builder agent",
+      "AI agent GitHub deploy website",
+      "computer use AI website generation"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "ai-agent-build-websites",
+    "title": "AI agent to build websites",
+    "use_case_intent": "show how Super can research, generate, push to GitHub, publish, and iterate website assets with real computer-use workflows"
+  },
+  "summary": "A practical, operator-grade field guide showing how founders, operators, and creators can use Super as an AI agent to research, build, deploy, and iterate websites using real computer use and a reusable computer-use cache."
+}
